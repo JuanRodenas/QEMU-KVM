@@ -61,4 +61,4 @@ virt-manager
 
 ![alt text](https://github.com/JuanRodenas/QEMU-KVM/blob/main/paso%20grafico.png)
 
-## Ready!
+## ☑️ Ready!
