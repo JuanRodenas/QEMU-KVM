@@ -61,4 +61,27 @@ virt-manager
 
 ![alt text](https://github.com/JuanRodenas/QEMU-KVM/blob/main/paso%20grafico.png)
 
+### Comandos:
+
+Iniciar máquina:
+~~~
+virsh start [VM]
+~~~
+
+Parar una máquina:
+~~~
+virsh shutdown [VM]
+~~~
+
+Eliminar una máquina:
+~~~
+virsh destroy [VM]
+~~~
+
+Listar máquinas:
+~~~
+virsh list
+~~~
+
+
 ## ☑️ Ready!
